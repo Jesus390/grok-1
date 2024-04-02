@@ -1,5 +1,2 @@
-# python virtualenv folder
-/venv-grok-1
-
 checkpoints/*
 !checkpoints/README.md
